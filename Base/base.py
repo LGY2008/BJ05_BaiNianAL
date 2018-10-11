@@ -6,6 +6,9 @@ class Base():
     # 查找元素  给谁用？？？ 下面的方法
     def base_find_element(self,loc,timeout=30,poll=0.5):
         return WebDriverWait(self.driver,timeout=timeout,poll_frequency=poll).until(lambda x:x.find_element(*loc))
+    # 查找一组元素
+    def base_find_elements(self,loc,timeout=30,poll=0.5):
+        return WebDriverWait(self.driver,timeout=timeout,poll_frequency=poll).until(lambda x:x.find_elements(*loc))
     # 点击
     def base_click(self,loc):
         # 调用自己封装查找元素类
@@ -35,6 +38,14 @@ class Base():
         loc=By.XPATH,"//*[contains(@text,'"+text+"')]"
         # 返回元素
         return self.base_find_element(loc)
+    def base_xpaths(self,text):
+        """
+        :param text: 传入要查找的文本
+        :return: 符合条件的所有元素
+        """
+        loc=By.XPATH,"//*[contains(@text,'"+text+"')]"
+        # 返回元素
+        return self.base_find_elements(loc)
     # 滑动元素封装
     def base_drag_and_drop(self,el1,el2):
         """
@@ -45,3 +56,12 @@ class Base():
     # 获取文本方法
     def base_get_text(self,loc):
         return self.base_find_element(loc).text
+
+    # 封装 传入文本，点击该文本相对应的元素
+    def base_xpath_click(self,text):
+        # 调用获取元素
+        self.base_xpath(text).click()
+
+    # 传入元素列表 点击第一个元素
+    def base_click_elements(self,elements,num=0):
+        elements[num].click()

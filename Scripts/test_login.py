@@ -1,6 +1,5 @@
 import os,sys
 sys.path.append(os.getcwd())
-
 from Base.read_yaml import ReadYaml
 import allure
 import pytest

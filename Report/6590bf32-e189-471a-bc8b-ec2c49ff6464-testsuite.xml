@@ -1,0 +1,79 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539249485191" stop="1539249569895">
+  <name>test_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1539249485191" status="passed" stop="1539249545524">
+      <name>TestAddress.test_add_address</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6156-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1539249507027" status="passed" stop="1539249509476">
+          <name>点击我的</name>
+          <title>点击我的</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539249509476" status="passed" stop="1539249511971">
+          <name>点击已有账号，去登录</name>
+          <title>点击已有账号，去登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539249511971" status="passed" stop="1539249515051">
+          <name>输入账号</name>
+          <title>输入账号</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539249515051" status="passed" stop="1539249518752">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539249518752" status="passed" stop="1539249519324">
+          <name>点击登录按钮</name>
+          <title>点击登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539249519324" status="passed" stop="1539249522381">
+          <name>点击设置按钮</name>
+          <title>点击设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1539249545526" status="passed" stop="1539249564590">
+      <name>TestAddress.test_update_address</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6156-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539249564593" status="passed" stop="1539249569895">
+      <name>TestAddress.test_delete_address</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6156-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
