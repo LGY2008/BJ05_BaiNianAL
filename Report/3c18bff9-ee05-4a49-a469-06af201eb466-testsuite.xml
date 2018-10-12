@@ -1,49 +1,49 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539249485191" stop="1539249569895">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539310712006" stop="1539310801484">
   <name>test_address</name>
   <labels/>
   <test-cases>
-    <test-case start="1539249485191" status="passed" stop="1539249545524">
-      <name>TestAddress.test_add_address</name>
+    <test-case start="1539310712006" status="passed" stop="1539310767891">
+      <name>TestAddress.test_add_address[\u5f20\u4e09-18600000000-\u5e7f\u4e1c\u7701-\u6df1\u5733\u5e02-\u5b9d\u5b89\u533a-\u7559\u4ed9\u4e8c\u8def\u4e2d\u7cae\u5546\u52a1\u516c\u56ed13\u5c42-100080]</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="6156-MainThread"/>
+        <label name="thread" value="5256-MainThread"/>
         <label name="host" value="MS-20180906QJYH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps>
-        <step start="1539249507027" status="passed" stop="1539249509476">
+        <step start="1539310733063" status="passed" stop="1539310735650">
           <name>点击我的</name>
           <title>点击我的</title>
           <attachments/>
           <steps/>
         </step>
-        <step start="1539249509476" status="passed" stop="1539249511971">
+        <step start="1539310735650" status="passed" stop="1539310738040">
           <name>点击已有账号，去登录</name>
           <title>点击已有账号，去登录</title>
           <attachments/>
           <steps/>
         </step>
-        <step start="1539249511971" status="passed" stop="1539249515051">
+        <step start="1539310738040" status="passed" stop="1539310740285">
           <name>输入账号</name>
           <title>输入账号</title>
           <attachments/>
           <steps/>
         </step>
-        <step start="1539249515051" status="passed" stop="1539249518752">
+        <step start="1539310740285" status="passed" stop="1539310743464">
           <name>输入密码</name>
           <title>输入密码</title>
           <attachments/>
           <steps/>
         </step>
-        <step start="1539249518752" status="passed" stop="1539249519324">
+        <step start="1539310743464" status="passed" stop="1539310744015">
           <name>点击登录按钮</name>
           <title>点击登录按钮</title>
           <attachments/>
           <steps/>
         </step>
-        <step start="1539249519324" status="passed" stop="1539249522381">
+        <step start="1539310744015" status="passed" stop="1539310747011">
           <name>点击设置按钮</name>
           <title>点击设置按钮</title>
           <attachments/>
@@ -51,24 +51,24 @@
         </step>
       </steps>
     </test-case>
-    <test-case start="1539249545526" status="passed" stop="1539249564590">
-      <name>TestAddress.test_update_address</name>
+    <test-case start="1539310767894" status="passed" stop="1539310786766">
+      <name>TestAddress.test_update_address[\u674e\u56db-18666666666-\u6cb3\u5317\u7701-\u77f3\u5bb6\u5e84-\u957f\u5b89\u533a-\u67d0\u67d0\u5927\u8857\u67d0\u67d0\u53f7\uff01\uff01\uff01-100070-\u4fdd\u5b58\u6210\u529f]</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="6156-MainThread"/>
+        <label name="thread" value="5256-MainThread"/>
         <label name="host" value="MS-20180906QJYH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1539249564593" status="passed" stop="1539249569895">
+    <test-case start="1539310786768" status="passed" stop="1539310801484">
       <name>TestAddress.test_delete_address</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="6156-MainThread"/>
+        <label name="thread" value="5256-MainThread"/>
         <label name="host" value="MS-20180906QJYH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>

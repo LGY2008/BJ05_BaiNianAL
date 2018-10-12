@@ -79,7 +79,7 @@ class PageAddress(Base):
         for i in range(len(elements)):
             # 点击 编辑
             self.page_click_edit_btn()
-            # 获取所有修改元素
+            # 获取所有删除元素
             elements=self.base_xpaths(text)
             # 点击列表元素中第一个元素
             self.base_click_elements(elements)

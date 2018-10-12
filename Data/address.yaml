@@ -1,0 +1,19 @@
+add_address:
+  test_add_address_001:
+    receipt_name: "张三"
+    phone: "18600000000"
+    sheng: "广东省"
+    shi: "深圳市"
+    qu: "宝安区"
+    address: "留仙二路中粮商务公园13层"
+    postcode: "100080"
+update_address:
+  test_update_address_001:
+    receipt_name: "李四"
+    phone: "18666666666"
+    sheng: "河北省"
+    shi: "石家庄"
+    qu: "长安区"
+    address: "某某大街某某号！！！"
+    postcode: "100070"
+    toast_expect: "保存成功"
