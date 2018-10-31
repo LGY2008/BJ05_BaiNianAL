@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07c8f1cb-db0c-460b-88ba-81db4aae9b95" name="Default" comment="增加地址管理 自动化代码 （新增+更新+删除）">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/address.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/12d1d072-6a17-486a-b6c0-7baaba784fea-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/2d5e42db-c163-4182-a470-980652fff9fe-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/3c18bff9-ee05-4a49-a469-06af201eb466-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/525b3ac8-49f5-4173-88dd-e2cb95cc7b06-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/74e5f5de-d282-4cf3-b229-ab073fc05246-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/773da617-571c-4e41-a09f-801957cb1d68-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/afe718e9-9c60-4f40-a560-459d6193728b-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/ccc28ad6-6f6e-4b30-97cb-bf85a605f57d-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/d0e17e1c-57cf-4adc-a185-ff374720418c-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/f20dce8c-48b9-4041-97b4-9576617dcfad-attachment.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/6590bf32-e189-471a-bc8b-ec2c49ff6464-testsuite.xml" afterPath="" />
+    <list default="true" id="07c8f1cb-db0c-460b-88ba-81db4aae9b95" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/063d3b5d-9544-42b1-a493-40eaa98f6c8a-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/09595e26-a6ff-48ef-8aaf-143d29ce723b-testsuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/4c60be97-7f04-4c62-a9b3-ceaafe2ca3df-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/5fed3c1a-cddc-490b-b5e1-7c87871710d3-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/90093f36-0826-483d-afa1-e4d121af5fa1-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/abac367a-ddb0-4af5-bf51-0546b9f5bd3f-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/b6ba6515-d97e-4fba-baf7-20ed1edd4ebf-testsuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/c7c83356-baa2-4043-be8c-f972ee661a67-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/f52cb225-f934-4698-84a7-76978e3f93a1-attachment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/fa680e0c-da3b-4a62-87f9-a54817fbfd22-attachment.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/12d1d072-6a17-486a-b6c0-7baaba784fea-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/2d5e42db-c163-4182-a470-980652fff9fe-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/3c18bff9-ee05-4a49-a469-06af201eb466-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/525b3ac8-49f5-4173-88dd-e2cb95cc7b06-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/74e5f5de-d282-4cf3-b229-ab073fc05246-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/773da617-571c-4e41-a09f-801957cb1d68-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/afe718e9-9c60-4f40-a560-459d6193728b-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/ccc28ad6-6f6e-4b30-97cb-bf85a605f57d-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/d0e17e1c-57cf-4adc-a185-ff374720418c-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/f20dce8c-48b9-4041-97b4-9576617dcfad-attachment.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Image/faild.png" afterPath="$PROJECT_DIR$/Image/faild.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Base/read_yaml.py" afterPath="$PROJECT_DIR$/Base/read_yaml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Page/page_address.py" afterPath="$PROJECT_DIR$/Page/page_address.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/test_address.py" afterPath="$PROJECT_DIR$/Scripts/test_address.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytest.ini" afterPath="$PROJECT_DIR$/pytest.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/test_login.py" afterPath="$PROJECT_DIR$/Scripts/test_login.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,70 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Base/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_address.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/test_address.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1857">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pytest.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read_yaml.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Base/read_yaml.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="address.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/address.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/login.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,7 +52,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Page/page_login.py" />
-        <option value="$PROJECT_DIR$/Scripts/test_login.py" />
         <option value="$PROJECT_DIR$/Page/page_in.py" />
         <option value="$PROJECT_DIR$/Base/base.py" />
         <option value="$PROJECT_DIR$/Page/__init__.py" />
@@ -122,8 +64,9 @@
         <option value="$PROJECT_DIR$/Page/page_address.py" />
         <option value="$PROJECT_DIR$/Data/address.yaml" />
         <option value="$PROJECT_DIR$/Base/read_yaml.py" />
-        <option value="$PROJECT_DIR$/Scripts/test_address.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/Scripts/test_address.py" />
+        <option value="$PROJECT_DIR$/Scripts/test_login.py" />
       </list>
     </option>
   </component>
@@ -150,6 +93,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,11 +114,6 @@
             <path>
               <item name="BaiNianAL" type="b2602c69:ProjectViewProjectNode" />
               <item name="BaiNianAL" type="462c0819:PsiDirectoryNode" />
-              <item name="Image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BaiNianAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaiNianAL" type="462c0819:PsiDirectoryNode" />
               <item name="Page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -186,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,108 +148,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_yaml">
-    <configuration name="read_yaml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BaiNianAL" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BaiNianAL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/read_yaml.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BaiNianAL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestDemo/test01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BaiNianAL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestDemo/test02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BaiNianAL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/test02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test_address" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="BaiNianAL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/test_address.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.read_yaml" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test02" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test01" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test02 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_address" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.read_yaml" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_address" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test02 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test02" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -331,22 +201,29 @@
       <option name="project" value="LOCAL" />
       <updated>1539249736927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成">
+      <created>1539311078812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539311078812</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2108067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26636225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67681897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46531302" sideWeight="0.5030441" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67681897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35194585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11336718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16920474" sideWeight="0.49695587" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11336718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,7 +240,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加地址管理 自动化代码 （新增+更新+删除）" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加地址管理 自动化代码 （新增+更新+删除）" />
+    <MESSAGE value="完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -382,6 +260,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -389,9 +268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -414,7 +290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,9 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,6 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -463,9 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,7 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,9 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,6 +387,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -553,9 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,6 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Page/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="52" column="62" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -641,20 +494,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test02.py" />
     <entry file="file://$PROJECT_DIR$/Scripts/test03.py" />
-    <entry file="file://$PROJECT_DIR$/Base/get_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Page/page_in.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,45 +508,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestDemo/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="37" column="12" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestDemo/test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/test01.py" />
+    <entry file="file://$PROJECT_DIR$/TestDemo/test02.py" />
     <entry file="file://$PROJECT_DIR$/Page/page_address.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2245">
           <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Base/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,30 +528,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/address.yaml">
+    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test_address.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1857">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
+    <entry file="file://$PROJECT_DIR$/Data/address.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="348">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/get_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding />
         </state>
       </provider>
