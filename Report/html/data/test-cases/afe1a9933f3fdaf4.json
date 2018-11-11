@@ -1,0 +1,66 @@
+{
+  "uid" : "afe1a9933f3fdaf4",
+  "name" : "TestAddress.test_delete_address",
+  "fullName" : "test_address.TestAddress.test_delete_address",
+  "historyId" : "d2da1e812a055f0cd7f3c97658acbe0f",
+  "time" : {
+    "start" : 1540997657935,
+    "stop" : 1540997661467,
+    "duration" : 3532
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AttributeError: 'TestAddress' object has no attribute 'login'",
+  "statusTrace" : "self = <test_address.TestAddress object at 0x0359A210>\n\n    @pytest.mark.run(order=3)\n    def test_delete_address(self):\n        # 删除地址操作  默认删除第一个地址\n        self.address.page_delete_address()\n        try:\n            # 断言\n>           assert self.address.page_is_delete()\nE           AssertionError: assert False\nE            +  where False = <bound method PageAddress.page_is_delete of <Page.page_address.PageAddress object at 0x02AE4910>>()\nE            +    where <bound method PageAddress.page_is_delete of <Page.page_address.PageAddress object at 0x02AE4910>> = <Page.page_address.PageAddress object at 0x02AE4910>.page_is_delete\nE            +      where <Page.page_address.PageAddress object at 0x02AE4910> = <test_address.TestAddress object at 0x0359A210>.address\n\nScripts\\test_address.py:130: AssertionError\n\nDuring handling of the above exception, another exception occurred:\n\nself = <test_address.TestAddress object at 0x0359A210>\n\n    @pytest.mark.run(order=3)\n    def test_delete_address(self):\n        # 删除地址操作  默认删除第一个地址\n        self.address.page_delete_address()\n        try:\n            # 断言\n            assert self.address.page_is_delete()\n        except:\n            # 截图\n>           self.login.base_getImage()\nE           AttributeError: 'TestAddress' object has no attribute 'login'\n\nScripts\\test_address.py:133: AttributeError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MS-20180906QJYH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8100-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_address"
+  }, {
+    "name" : "testClass",
+    "value" : "test_address"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAddress.test_delete_address"
+  }, {
+    "name" : "package",
+    "value" : "test_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "afe1a9933f3fdaf4.json",
+  "parameterValues" : [ ]
+}

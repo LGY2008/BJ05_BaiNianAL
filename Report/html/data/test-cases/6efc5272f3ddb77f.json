@@ -1,0 +1,60 @@
+{
+  "uid" : "6efc5272f3ddb77f",
+  "name" : "TestAddress.test_update_address[\\u674e\\u56db-18666666666-\\u6cb3\\u5317\\u7701-\\u77f3\\u5bb6\\u5e84-\\u957f\\u5b89\\u533a-\\u67d0\\u67d0\\u5927\\u8857\\u67d0\\u67d0\\u53f7\\uff01\\uff01\\uff01-100070-\\u4fdd\\u5b58\\u6210\\u529f]",
+  "fullName" : "test_address.TestAddress.test_update_address[\\u674e\\u56db-18666666666-\\u6cb3\\u5317\\u7701-\\u77f3\\u5bb6\\u5e84-\\u957f\\u5b89\\u533a-\\u67d0\\u67d0\\u5927\\u8857\\u67d0\\u67d0\\u53f7\\uff01\\uff01\\uff01-100070-\\u4fdd\\u5b58\\u6210\\u529f]",
+  "historyId" : "60b5d232114822e9e00b3748db2cd1ea",
+  "time" : {
+    "start" : 1540997641785,
+    "stop" : 1540997657934,
+    "duration" : 16149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MS-20180906QJYH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8100-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_address"
+  }, {
+    "name" : "testClass",
+    "value" : "test_address"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAddress.test_update_address[\\u674e\\u56db-18666666666-\\u6cb3\\u5317\\u7701-\\u77f3\\u5bb6\\u5e84-\\u957f\\u5b89\\u533a-\\u67d0\\u67d0\\u5927\\u8857\\u67d0\\u67d0\\u53f7\\uff01\\uff01\\uff01-100070-\\u4fdd\\u5b58\\u6210\\u529f]"
+  }, {
+    "name" : "package",
+    "value" : "test_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6efc5272f3ddb77f.json",
+  "parameterValues" : [ ]
+}

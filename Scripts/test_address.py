@@ -28,7 +28,7 @@ def get_data(text_type):
 class TestAddress():
     def setup_class(self):
         # 登录成功
-        self.page = PageIn(get_driver())
+        self.page = PageIn()
         self.page.page_get_login().page_login("18610453007", "123456")
         # 点击设置
         self.page.page_get_login().page_click_setting()

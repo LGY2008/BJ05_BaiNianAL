@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AttributeError: 'TestAddress' object has no attribute 'login'",
+      "children" : [ {
+        "name" : "TestAddress.test_delete_address",
+        "uid" : "afe1a9933f3fdaf4",
+        "parentUid" : "9f5c3178499a4dfa8e6f417ab480d2ec",
+        "status" : "failed",
+        "time" : {
+          "start" : 1540997657935,
+          "stop" : 1540997661467,
+          "duration" : 3532
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f5c3178499a4dfa8e6f417ab480d2ec"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

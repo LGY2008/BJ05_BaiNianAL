@@ -1,0 +1,422 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541931835929" stop="1541931855781">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541931835929" status="broken" stop="1541931855647">
+      <name>TestLogin.test_login[18610453007-123456-itheima-None]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855651" status="broken" stop="1541931855663">
+      <name>TestLogin.test_login[itheima-123456-itheima-None]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855665" status="broken" stop="1541931855678">
+      <name>TestLogin.test_login[ 18610453007 -123456-itheima-None]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855680" status="broken" stop="1541931855692">
+      <name>TestLogin.test_login[ itheima -123456-itheima-None]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855700" status="broken" stop="1541931855722">
+      <name>TestLogin.test_login[186104530077-123456-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855724" status="broken" stop="1541931855740">
+      <name>TestLogin.test_login[18610453007-12345-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef0]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855744" status="broken" stop="1541931855762">
+      <name>TestLogin.test_login[theima-123456-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541931855764" status="broken" stop="1541931855781">
+      <name>TestLogin.test_login[18610453007-12345-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef1]</name>
+      <failure>
+        <message>TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'</message>
+        <stack-trace>self = &lt;class 'test_login.TestLogin'&gt;
+
+    def setup_class(self):
+        # 实例化 登录页面类
+&gt;       self.login=PageIn().page_get_login()
+
+Scripts\test_login.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Page\page_in.py:6: in __init__
+    self.driver=get_driver()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+    def get_driver():
+        # server 启动参数
+        desired_caps = {}
+        # 设备信息
+        desired_caps['platformName'] = 'Android'
+        desired_caps['platformVersion'] = '6.0'
+        # desired_caps['deviceName'] = '192.168.56.101:5555'
+        desired_caps['deviceName'] = '127.0.0.1:7555'
+        # 指定appium框架版本
+        desired_caps['automationName'] = 'Uiautomator2'
+        # 设置中文
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
+        # app的信息
+        desired_caps['appPackage'] = 'com.yunmall.lc'
+        desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
+        # 声明我们的driver对象
+        # return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        """以下测试driver方法使用"""
+        driver=webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
+        # driver.drag_and_drop()
+&gt;       driver.implicitly_wait()
+E       TypeError: implicitly_wait() missing 1 required positional argument: 'time_to_wait'
+
+Base\get_driver.py:23: TypeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7484-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -2,29 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07c8f1cb-db0c-460b-88ba-81db4aae9b95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/063d3b5d-9544-42b1-a493-40eaa98f6c8a-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/09595e26-a6ff-48ef-8aaf-143d29ce723b-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/4c60be97-7f04-4c62-a9b3-ceaafe2ca3df-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/5fed3c1a-cddc-490b-b5e1-7c87871710d3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/90093f36-0826-483d-afa1-e4d121af5fa1-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/abac367a-ddb0-4af5-bf51-0546b9f5bd3f-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/b6ba6515-d97e-4fba-baf7-20ed1edd4ebf-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/c7c83356-baa2-4043-be8c-f972ee661a67-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/f52cb225-f934-4698-84a7-76978e3f93a1-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/fa680e0c-da3b-4a62-87f9-a54817fbfd22-attachment.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/12d1d072-6a17-486a-b6c0-7baaba784fea-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/2d5e42db-c163-4182-a470-980652fff9fe-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/3c18bff9-ee05-4a49-a469-06af201eb466-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/525b3ac8-49f5-4173-88dd-e2cb95cc7b06-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/74e5f5de-d282-4cf3-b229-ab073fc05246-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/773da617-571c-4e41-a09f-801957cb1d68-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/afe718e9-9c60-4f40-a560-459d6193728b-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/ccc28ad6-6f6e-4b30-97cb-bf85a605f57d-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/d0e17e1c-57cf-4adc-a185-ff374720418c-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/f20dce8c-48b9-4041-97b4-9576617dcfad-attachment.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Image/faild.png" afterPath="$PROJECT_DIR$/Image/faild.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/551750e0-7d3a-43f2-9625-6d33e7a159cd-testsuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/bf0f16fe-ed05-41d2-8bd1-0483ebc348f8-testsuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/43804bc9a1852a5e.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/711ddaacbef878cc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/928324d6d198bf24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/98f7a757fc2000ac.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/a18ada1e1d2a7088.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/cbdc4fa89d74f83e.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/de4641dac69f6bbb.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/attachments/fee2eaf6aef5e81e.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/behaviors.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/behaviors.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/categories.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/categories.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/packages.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/suites.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/suites.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/2f966314a5b5b2fe.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/6efc5272f3ddb77f.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/8505eb76074185b9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/926880b16cb93188.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/9a7517ac95233f55.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/9e68d8142aa93820.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/a40a8dcf77b96e57.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/afe1a9933f3fdaf4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/b8d70f4a89a6b738.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/c3e3b96af1ec9b4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/test-cases/dd61137148e6378e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/data/timeline.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/export/influxDbData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/export/mail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/export/prometheusData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/history/categories-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/history/duration-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/history/history-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/history/history.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/history/retry-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/plugins/behaviors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/plugins/packages/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/plugins/screen-diff/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/plugins/screen-diff/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/behaviors.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/categories-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/categories.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/duration-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/duration.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/environment.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/executors.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/history-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/launch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/retry-trend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/severity.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/status-chart.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/suites.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Report/html/widgets/summary.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.pytest_cache/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/063d3b5d-9544-42b1-a493-40eaa98f6c8a-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/09595e26-a6ff-48ef-8aaf-143d29ce723b-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/4c60be97-7f04-4c62-a9b3-ceaafe2ca3df-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/5fed3c1a-cddc-490b-b5e1-7c87871710d3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/90093f36-0826-483d-afa1-e4d121af5fa1-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/abac367a-ddb0-4af5-bf51-0546b9f5bd3f-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/b6ba6515-d97e-4fba-baf7-20ed1edd4ebf-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/c7c83356-baa2-4043-be8c-f972ee661a67-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/f52cb225-f934-4698-84a7-76978e3f93a1-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/fa680e0c-da3b-4a62-87f9-a54817fbfd22-attachment.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Base/get_driver.py" afterPath="$PROJECT_DIR$/Base/get_driver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Page/page_in.py" afterPath="$PROJECT_DIR$/Page/page_in.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/test_address.py" afterPath="$PROJECT_DIR$/Scripts/test_address.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/test_login.py" afterPath="$PROJECT_DIR$/Scripts/test_login.py" />
     </list>
@@ -36,7 +88,88 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="get_driver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Base/get_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_address.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/test_address.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/address.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/login.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Base/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_address.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Page/page_address.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2552">
+              <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Page/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="32" column="63" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,21 +185,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Page/page_login.py" />
-        <option value="$PROJECT_DIR$/Page/page_in.py" />
         <option value="$PROJECT_DIR$/Base/base.py" />
         <option value="$PROJECT_DIR$/Page/__init__.py" />
         <option value="$PROJECT_DIR$/Data/login.yaml" />
         <option value="$PROJECT_DIR$/Scripts/test02.py" />
         <option value="$PROJECT_DIR$/Scripts/test03.py" />
-        <option value="$PROJECT_DIR$/Base/get_driver.py" />
         <option value="$PROJECT_DIR$/TestDemo/test01.py" />
         <option value="$PROJECT_DIR$/TestDemo/test02.py" />
         <option value="$PROJECT_DIR$/Page/page_address.py" />
         <option value="$PROJECT_DIR$/Data/address.yaml" />
         <option value="$PROJECT_DIR$/Base/read_yaml.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/Page/page_in.py" />
         <option value="$PROJECT_DIR$/Scripts/test_address.py" />
         <option value="$PROJECT_DIR$/Scripts/test_login.py" />
+        <option value="$PROJECT_DIR$/Base/get_driver.py" />
       </list>
     </option>
   </component>
@@ -92,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,6 +257,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,23 +341,30 @@
       <option name="project" value="LOCAL" />
       <updated>1539311078812</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成02">
+      <created>1540996469549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540996469549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26636225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2975647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46531302" sideWeight="0.5030441" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67681897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67681897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16920474" sideWeight="0.49695587" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47377327" sideWeight="0.49695587" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11336718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -235,42 +375,23 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加地址管理 自动化代码 （新增+更新+删除）" />
     <MESSAGE value="完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成" />
+    <MESSAGE value="完成02" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Base/get_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/page_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -319,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -379,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -410,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,13 +611,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test02.py" />
     <entry file="file://$PROJECT_DIR$/Scripts/test03.py" />
-    <entry file="file://$PROJECT_DIR$/Page/page_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Page/page_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -510,13 +620,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestDemo/test01.py" />
     <entry file="file://$PROJECT_DIR$/TestDemo/test02.py" />
-    <entry file="file://$PROJECT_DIR$/Page/page_address.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2245">
-          <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Base/read_yaml.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -524,40 +627,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/login.yaml">
+    <entry file="file://$PROJECT_DIR$/Report/4c60be97-7f04-4c62-a9b3-ceaafe2ca3df-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Report/5fed3c1a-cddc-490b-b5e1-7c87871710d3-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Report/f52cb225-f934-4698-84a7-76978e3f93a1-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/Page/page_in.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Base/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="137">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="551">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test_address.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -565,23 +655,55 @@
     <entry file="file://$PROJECT_DIR$/Data/address.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/login.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/page_address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Page/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1363">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="928">
+          <caret line="32" column="63" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Base/get_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="87">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding />
         </state>
       </provider>

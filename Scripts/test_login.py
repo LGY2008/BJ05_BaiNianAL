@@ -17,7 +17,7 @@ def get_data():
 class TestLogin():
     def setup_class(self):
         # 实例化 登录页面类
-        self.login=PageIn(get_driver()).page_get_login()
+        self.login=PageIn().page_get_login()
         # 点击我
         self.login.page_click_me()
         # 点击已有账号去登录

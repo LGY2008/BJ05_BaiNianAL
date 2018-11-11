@@ -1,0 +1,160 @@
+{
+  "uid" : "9e68d8142aa93820",
+  "name" : "TestAddress.test_add_address[\\u5f20\\u4e09-18600000000-\\u5e7f\\u4e1c\\u7701-\\u6df1\\u5733\\u5e02-\\u5b9d\\u5b89\\u533a-\\u7559\\u4ed9\\u4e8c\\u8def\\u4e2d\\u7cae\\u5546\\u52a1\\u516c\\u56ed13\\u5c42-100080]",
+  "fullName" : "test_address.TestAddress.test_add_address[\\u5f20\\u4e09-18600000000-\\u5e7f\\u4e1c\\u7701-\\u6df1\\u5733\\u5e02-\\u5b9d\\u5b89\\u533a-\\u7559\\u4ed9\\u4e8c\\u8def\\u4e2d\\u7cae\\u5546\\u52a1\\u516c\\u56ed13\\u5c42-100080]",
+  "historyId" : "c0e7a80f4463a5c4ec00ea477426a88c",
+  "time" : {
+    "start" : 1540997591709,
+    "stop" : 1540997641783,
+    "duration" : 50074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击我的",
+      "time" : {
+        "start" : 1540997611575,
+        "stop" : 1540997614079,
+        "duration" : 2504
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击已有账号，去登录",
+      "time" : {
+        "start" : 1540997614079,
+        "stop" : 1540997616371,
+        "duration" : 2292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入账号",
+      "time" : {
+        "start" : 1540997616371,
+        "stop" : 1540997618372,
+        "duration" : 2001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1540997618372,
+        "stop" : 1540997620619,
+        "duration" : 2247
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击登录按钮",
+      "time" : {
+        "start" : 1540997620619,
+        "stop" : 1540997621244,
+        "duration" : 625
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击设置按钮",
+      "time" : {
+        "start" : 1540997621244,
+        "stop" : 1540997623261,
+        "duration" : 2017
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MS-20180906QJYH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8100-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_address"
+  }, {
+    "name" : "testClass",
+    "value" : "test_address"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAddress.test_add_address[\\u5f20\\u4e09-18600000000-\\u5e7f\\u4e1c\\u7701-\\u6df1\\u5733\\u5e02-\\u5b9d\\u5b89\\u533a-\\u7559\\u4ed9\\u4e8c\\u8def\\u4e2d\\u7cae\\u5546\\u52a1\\u516c\\u56ed13\\u5c42-100080]"
+  }, {
+    "name" : "package",
+    "value" : "test_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e68d8142aa93820.json",
+  "parameterValues" : [ ]
+}
